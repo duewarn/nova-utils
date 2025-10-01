@@ -43,7 +43,7 @@
         "USDT",
         "USDC",
         "ETH",
-        "DOT"
+        "KOT"
     ],
     "bannerPath": "ahm_kusama",
     "migrationInProgress": true,
