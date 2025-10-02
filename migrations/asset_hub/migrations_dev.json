@@ -17,7 +17,7 @@
     "newTokenNames": [
         "USDT",
         "USDC",
-        "ETH",
+        "ETH2",
         "KSM"
     ],
     "bannerPath": "ahm_kusama",
