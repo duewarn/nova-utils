@@ -69,7 +69,8 @@
         "USDC",
         "ETH",
         "KOT",
-        "ROT"
+        "ROT",
+        "POT"
     ],
     "bannerPath": "ahm_kusama",
     "migrationInProgress": true,
