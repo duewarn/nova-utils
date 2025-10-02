@@ -18,7 +18,7 @@
         "USDT",
         "USDC",
         "ETH",
-        "DOT"
+        "KSM"
     ],
     "bannerPath": "ahm_kusama",
     "migrationInProgress": false,
@@ -43,7 +43,7 @@
         "USDT",
         "USDC",
         "ETH",
-        "KOT"
+        "WND"
     ],
     "bannerPath": "ahm_kusama",
     "migrationInProgress": true,
@@ -68,9 +68,7 @@
         "USDT",
         "USDC",
         "ETH",
-        "KOT",
-        "ROT",
-        "POT"
+        "DOT"
     ],
     "bannerPath": "ahm_kusama",
     "migrationInProgress": true,
