@@ -37,8 +37,8 @@
         "minBalance": "1000000000",
         "averageFee": "2933700000"
     },
-    "blockNumber": 26047261,
-    "timestamp": 1763242844,
+    "blockNumber": 31349014,
+    "timestamp": 1760132444,
     "newTokenNames": [
         "USDT",
         "USDC",
@@ -62,8 +62,8 @@
         "minBalance": "1000000000",
         "averageFee": "2933700000"
     },
-    "blockNumber": 28018396,
-    "timestamp": 1759354844,
+    "blockNumber": 29018650,
+    "timestamp": 1760132444,
     "newTokenNames": [
         "USDT",
         "USDC",
