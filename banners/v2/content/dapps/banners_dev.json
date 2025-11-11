@@ -4,7 +4,7 @@
        "background": "https://raw.githubusercontent.com/novasamatech/nova-utils/master/banners/v2/resources/backgrounds/novashots_promo_banner_background.png",
        "image": "https://raw.githubusercontent.com/novasamatech/nova-utils/master/banners/v2/resources/images/novashots_promo_banner_picture.png",
        "clipsToBounds": false,
-       "action": "novawallet://nova/open/dapp?url=https://novashots.io?campaign=blast"
+       "action": "novawallet://nova/open/dapp?url=https://novashots.io/?campaign=blast"
     },
     {
        "id": "7dbb5708-2f74-4855-8b1d-d80484e3a1a2",
@@ -25,7 +25,7 @@
        "background": "https://raw.githubusercontent.com/novasamatech/nova-utils/master/banners/v2/resources/backgrounds/pink_promo_banner_background.png",
        "image": "https://raw.githubusercontent.com/novasamatech/nova-utils/master/banners/v2/resources/images/hydration_promo_banner_picture.png",
        "clipsToBounds": true,
-       "action": "novawallet://nova/open/dapp?url=https://app.hydration.net/NOVA?campaign=blast"
+       "action": "novawallet://nova/open/dapp?url=https://app.hydration.net/NOVA/?campaign=blast"
     },
     {
        "id": "b6eb6249-9951-4f3e-9b08-a2fe9dbafe5f",
