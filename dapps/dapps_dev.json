@@ -1,7 +1,7 @@
 {
   "popular": [
     {
-      "url": "https://app.hydration.net/NOVA"
+      "url": "https://deploy-preview-2977--edge-hydra-app.netlify.app"
     },
     {
       "url": "https://app.bifrost.io/"
@@ -161,7 +161,7 @@
     {
       "name": "Hydration",
       "icon": "https://raw.githubusercontent.com/novasamatech/nova-utils/master/icons/dapps/dapps/color/Hydration.svg",
-      "url": "https://app.hydration.net/NOVA",
+      "url": "https://deploy-preview-2977--edge-hydra-app.netlify.app",
       "categories": [
         "bridge",
         "dex",
